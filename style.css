@@ -1,0 +1,10 @@
+*{
+    background-color: blue;
+    margin: 0;
+}
+h1{
+    color: white;
+    text-align: center;
+    border: 1px solid white;
+    margin: 10px;
+}
